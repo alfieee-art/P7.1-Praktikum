@@ -1,0 +1,14 @@
+C:\Users\HP EliteBook\OneDrive\Dokumen\PBO\PRAKTIKUM\P7.1-Praktikum\obj\Debug\net10.0\P7.1-Praktikum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP EliteBook\OneDrive\Dokumen\PBO\PRAKTIKUM\P7.1-Praktikum\obj\Debug\net10.0\P7.1-Praktikum.AssemblyInfoInputs.cache
+C:\Users\HP EliteBook\OneDrive\Dokumen\PBO\PRAKTIKUM\P7.1-Praktikum\obj\Debug\net10.0\P7.1-Praktikum.AssemblyInfo.cs
+C:\Users\HP EliteBook\OneDrive\Dokumen\PBO\PRAKTIKUM\P7.1-Praktikum\obj\Debug\net10.0\P7.1-Praktikum.csproj.CoreCompileInputs.cache
+C:\Users\HP EliteBook\OneDrive\Dokumen\PBO\PRAKTIKUM\P7.1-Praktikum\bin\Debug\net10.0\P7.1-Praktikum.exe
+C:\Users\HP EliteBook\OneDrive\Dokumen\PBO\PRAKTIKUM\P7.1-Praktikum\bin\Debug\net10.0\P7.1-Praktikum.deps.json
+C:\Users\HP EliteBook\OneDrive\Dokumen\PBO\PRAKTIKUM\P7.1-Praktikum\bin\Debug\net10.0\P7.1-Praktikum.runtimeconfig.json
+C:\Users\HP EliteBook\OneDrive\Dokumen\PBO\PRAKTIKUM\P7.1-Praktikum\bin\Debug\net10.0\P7.1-Praktikum.dll
+C:\Users\HP EliteBook\OneDrive\Dokumen\PBO\PRAKTIKUM\P7.1-Praktikum\bin\Debug\net10.0\P7.1-Praktikum.pdb
+C:\Users\HP EliteBook\OneDrive\Dokumen\PBO\PRAKTIKUM\P7.1-Praktikum\obj\Debug\net10.0\P7.1-Praktikum.dll
+C:\Users\HP EliteBook\OneDrive\Dokumen\PBO\PRAKTIKUM\P7.1-Praktikum\obj\Debug\net10.0\refint\P7.1-Praktikum.dll
+C:\Users\HP EliteBook\OneDrive\Dokumen\PBO\PRAKTIKUM\P7.1-Praktikum\obj\Debug\net10.0\P7.1-Praktikum.pdb
+C:\Users\HP EliteBook\OneDrive\Dokumen\PBO\PRAKTIKUM\P7.1-Praktikum\obj\Debug\net10.0\P7.1-Praktikum.genruntimeconfig.cache
+C:\Users\HP EliteBook\OneDrive\Dokumen\PBO\PRAKTIKUM\P7.1-Praktikum\obj\Debug\net10.0\ref\P7.1-Praktikum.dll
